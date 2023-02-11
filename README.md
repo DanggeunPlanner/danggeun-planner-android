@@ -13,7 +13,7 @@
 
 ## 🛠️Stack
 
-- Kotlin
+- **Kotlin**
 
 
 <br/>
