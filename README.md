@@ -6,14 +6,14 @@
 **당근 플래너**는 **뽀모도로 타이머 기반의 집중&시간관리 서비스**를 제공하고 있습니다.
 
 
-## 핵심기능
+## 🎯핵심기능
 - 웹과 기능이 똑같은 웹뷰 앱 
 - 백그라운드 시 타이머 활성화 기능
 
 
-## Stack
+## 🛠️Stack
 
-Kotlin
+![Kotlin](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 
 
 <br/>
